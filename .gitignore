@@ -8,6 +8,6 @@ venv/
 node_modules/
 
 # Ignore log and temp files
-*.employee.db
-*.employees.csv
-*.newEmployees.csv
+*employee.db
+*employees.csv
+*newEmployees.csv
